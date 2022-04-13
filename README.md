@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesse-Domey
 - 👀 I’m interested in solving everyday problems and making the world easier with each line of code I write
-- 🌱 I’m currently learning the basics of programming with python and enrolled in holberton school of programming
+- 🌱 I’m currently learning the basics of programming with python and enrolled in ALX school of programming
 - 💞️ I’m looking for mentors who can guide as I start my programming journey
 - 📫 email me on jessedomey@gmail.com
 
